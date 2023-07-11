@@ -1,4 +1,4 @@
-# DataOps_July23
+# DataOps_July23 
 This shows a walkthrough of the Github platform
 
 Addition Made to Github Read me file
@@ -14,3 +14,8 @@ Also, the requirements in such projects change often. So a version control syste
 Addition made on visual code 
 
 Free. Built on open source. Runs everywhere. Download Mac Universal Stable Build Download for Windows Stable Build .deb Debian, Ubuntu... .rpm Red Hat, Fedora... .deb (x86) .rpm (x86) .tar.gz (x86) Download Stable Build Stable Insiders macOS Universal Windows x64 User Installer Linux x64 .deb Linux x64 .rpm Other downloads or open on web
+
+
+New Changes to file 
+
+See it here
